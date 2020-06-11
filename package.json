@@ -1,0 +1,11 @@
+{
+  "name": "verus-coin-importer",
+  "version": "1.0.0",
+  "description": "A simple tool to create coin files to import into Verus Desktop.",
+  "main": "index.js",
+  "author": "Michael Filip Toutonghi",
+  "license": "MIT",
+  "dependencies": {
+    "verus-zkedid-utils": "https://github.com/michaeltout/verus-zkedid-utils.git"
+  }
+}

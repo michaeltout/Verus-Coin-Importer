@@ -1,0 +1,7 @@
+const PROTOCOL_ID = 'VRSC:CURRENCY_IMPORT'
+const PROTOCOL_VERSION = 1
+
+module.exports = {
+  PROTOCOL_ID,
+  PROTOCOL_VERSION
+}
