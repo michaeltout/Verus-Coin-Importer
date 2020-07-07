@@ -38,7 +38,7 @@ const createCoinObj = (answers) => {
     options: {
       dustThreshold,
       fallbackPort: rpcPort,
-      startupParams,
+      startupOptions: startupParams,
       daemon: isAc ? 'komodod' : 'verusd',
       customServers: electrumServers,
       dirNames: {
