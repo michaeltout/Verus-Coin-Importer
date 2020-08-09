@@ -10,12 +10,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 A simple tool to create coin files to import into Verus Desktop.
 
 ## Usage & Installation
-- To use the importer tool, you need node v12.0.0 or greater
+- To use the importer tool, you need node v12.0.0 or greater and yarn
 - Currently, you can only import Komodo asset chains into Verus Desktop using this tool
 
 1) Download this git repository to your computer
 2) Using a terminal, cd into the repository
-3) Run "node index.js" and answer the questions 
+3) Run "yarn" in the terminal
+4) Run "node index.js" in the terminal and answer the questions 
 4) When you've filled out the form, double check that the created JSON file printed to your console is how you want it to be
 5) A new file, "\<your coin ticker\>_import.txt" should be created inside the repository folder, this is your import file
 
