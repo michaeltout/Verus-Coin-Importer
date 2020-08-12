@@ -6,6 +6,6 @@
   "author": "Michael Filip Toutonghi",
   "license": "MIT",
   "dependencies": {
-    "verus-zkedid-utils": "https://github.com/michaeltout/verus-zkedid-utils.git"
+    "verus-zkedid-utils": "https://github.com/michaeltout/verus-zkedid-utils"
   }
 }

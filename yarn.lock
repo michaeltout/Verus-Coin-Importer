@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-"verus-zkedid-utils@https://github.com/michaeltout/verus-zkedid-utils.git":
+"verus-zkedid-utils@https://github.com/michaeltout/verus-zkedid-utils":
   version "1.0.0"
-  resolved "https://github.com/michaeltout/verus-zkedid-utils.git#9e066fbc4d344df2ecc2ac9e0e7b37854f3aa23e"
+  resolved "https://github.com/michaeltout/verus-zkedid-utils#c779c3c3b739ea121a1c8222c107acf93bad48dc"
